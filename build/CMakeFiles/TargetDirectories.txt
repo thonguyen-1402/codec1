@@ -1,0 +1,4 @@
+/home/thow/Tho/lab/octree/src5/build/CMakeFiles/encode.dir
+/home/thow/Tho/lab/octree/src5/build/CMakeFiles/decode.dir
+/home/thow/Tho/lab/octree/src5/build/CMakeFiles/edit_cache.dir
+/home/thow/Tho/lab/octree/src5/build/CMakeFiles/rebuild_cache.dir

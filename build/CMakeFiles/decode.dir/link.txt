@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/decode.dir/octree.cpp.o CMakeFiles/decode.dir/decode.cpp.o -o decode 
